@@ -5,7 +5,7 @@ Start the containers by typing this:
 	> bash install.sh
 	> docker-compose up
 
-This releases two containers, one of Drupal running on port 8080 and another of postgres. This also creates a docker network. Also the data of postgres is persistantly stored through docker volumes.
+This releases two containers, one of Drupal running on port 8080 and another of postgres. This also creates a docker network. Also the data of postgres is persistantly stored through docker volumes. The data of drupal is stored through bind mounts in files folder in drupal directory
 
 
 To stop these things, type:
