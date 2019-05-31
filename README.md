@@ -10,6 +10,10 @@ This releases two containers, one of Drupal running on port 8080 and another of 
 To stop these things, type:
 	> docker-compose down
 
+
+The webportal of drupal can be accessed from the webbrowser on port 8080
+
+
 #Drupal
 Drupal is a free, open-source content management system (CMS) with a large, supportive community. It's used by millions of people and organizations around the globe to build and maintain their websites. You probably use Drupal every day without knowing it, as many top businesses and government organizations use Drupal, like the Government of Australia, Red Cross, Harvard, The Economist, BBC, NBC News, Whole Foods, Cisco, Twitter, and many, many more.
 
